@@ -16,8 +16,7 @@ public class terminalEnfeitado {
 
     private static String starRating(String info) {
         int nota = Integer.parseInt(info.substring(0, info.indexOf(".")));
-//        String strEmoji = "\u2B50".repeat(Math.max(0, nota)) +"";
 
-        return "*".repeat(Math.max(0, nota)) +"";
+        return "\u2B50".repeat(Math.max(0, nota)) +"";
     }
 }
