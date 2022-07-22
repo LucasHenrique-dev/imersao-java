@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cbe98db-85b8-40a5-9691-467f331d3ce5" name="Changes" comment="" />
+    <list default="true" id="2cbe98db-85b8-40a5-9691-467f331d3ce5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/linguagens-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/src/main/java/br/com/alura/linguagens/api/Linguagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/src/main/java/br/com/alura/linguagens/api/LinguagemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/src/main/java/br/com/alura/linguagens/api/LinguagemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/src/main/java/br/com/alura/linguagens/api/LinguagensApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linguagens-api/src/test/java/br/com/alura/linguagens/api/LinguagensApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +27,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -28,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/GitHub/Meus Projetos/imersao-java"
+    "last_opened_file_path": "C:/GitHub/Meus Projetos/imersao-java/alura-stickers"
   }
 }]]></component>
   <component name="RunManager" selected="Application.App">
@@ -63,6 +80,8 @@
       <updated>1658186821143</updated>
       <workItem from="1658186823541" duration="28000" />
       <workItem from="1658186883506" duration="659000" />
+      <workItem from="1658449616855" duration="183000" />
+      <workItem from="1658453365998" duration="125000" />
     </task>
     <servers />
   </component>
